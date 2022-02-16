@@ -5,3 +5,4 @@
 * Automated branch merge
 * Dummy line
 * Dummy line2
+* Dummy line3
