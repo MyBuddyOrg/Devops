@@ -2,3 +2,4 @@
 * jenkins build and execution
 * automating merging process
 * merging branches from orgranization
+* Automated branch merge
