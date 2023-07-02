@@ -21,3 +21,4 @@ jobs:
       - run:
           name: Run Tests
           command: docker run my-java-app
+
